@@ -1,0 +1,26 @@
+{
+  "name": "crypto-cli",
+  "version": "1.0.0",
+  "description": "Encrypt/Decrypt CLI",
+  "main": "crypto.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "crypto": "crypto.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuanhhaogk/crypto-cli.git"
+  },
+  "author": "Vu Anh Hao <vuanhhaogk@gmail.com> (https://vuanhhaogk.github.io)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuanhhaogk/crypto-cli/issues"
+  },
+  "homepage": "https://github.com/vuanhhaogk/crypto-cli#readme",
+  "dependencies": {
+    "commander": "^2.11.0",
+    "prompt": "^1.0.0"
+  }
+}
